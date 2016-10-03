@@ -1,0 +1,5 @@
+Question: What happens when you initialize a repository? Why do you need to do it?
+Reflection: git creates a .git directory and makes sure repository is ready for use.  You need to do it to make sure you can use git as a repository
+
+Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Reflection: staging area is where all the files with changes are tracked.  This allows you to only work on those files where you plan to make changes
