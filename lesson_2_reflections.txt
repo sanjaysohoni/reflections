@@ -3,3 +3,9 @@ Reflection: git creates a .git directory and makes sure repository is ready for 
 
 Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
 Reflection: staging area is where all the files with changes are tracked.  This allows you to only work on those files where you plan to make changes
+
+Question: How can you use the staging area to make sure you have one commit per logical change?
+Reflection: you can add only those files which you want to commit together as a single change
+
+Question: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Reflection: When I am trying various different approaches for implementing a feature branches can help by keeping all the changes related to an approach together 
