@@ -8,4 +8,7 @@ Question: How can you use the staging area to make sure you have one commit per 
 Reflection: you can add only those files which you want to commit together as a single change
 
 Question: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Reflection: When I am trying various different approaches for implementing a feature branches can help by keeping all the changes related to an approach together 
+Reflection: When I am trying various different approaches for implementing a feature branches can help by keeping all the changes related to an approach together
+
+Question: How do the diagrams help you visualize the branch structure?
+Reflection: diagrams help understand how the branches are related to each other, relationship of the commits to each other and the current HEAD 
