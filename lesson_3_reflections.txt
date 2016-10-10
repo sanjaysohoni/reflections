@@ -3,3 +3,6 @@ Reflection: when I am collaborating with others or I want to publish my work for
 
 Question: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Reflection: when there are other contributors, I want to make sure that I can only pull changes that will not disrupt the work I am doing at that time
+
+Question: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Reflection: forks to make a copy of an existing repository in github when I want to have a truly different additions.  Clones to create a working copy on local computer.  Branch when I want to try various experiments, features.
